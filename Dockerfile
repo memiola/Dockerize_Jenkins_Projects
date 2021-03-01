@@ -1,6 +1,6 @@
-FROM node:10
+FROM node:Latest
 
-MAINTAINER Mujeeb Emiola
+MAINTAINER Mujeeb Oladayo Emiola
 
 # Create app directory
 WORKDIR /usr/src/app
