@@ -1,6 +1,6 @@
 FROM node:Latest
 
-MAINTAINER Mujeeb Oladayos Emiola
+MAINTAINER Mujeeb Oladayos Emiolasis
 
 # Create app directory
 WORKDIR /usr/src/app
